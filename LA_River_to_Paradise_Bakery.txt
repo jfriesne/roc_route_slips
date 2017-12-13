@@ -1,6 +1,6 @@
 L.A. River to Paradise Bakery
 52.6 MI
-http://???map_url_goes_here???.html
+http://www.mapmyride.com/routes/view/1886681372
 
 S	PRIMROSE AV
 W	CHESTNUT/SANTA CLARA
@@ -22,24 +22,24 @@ L	EAGLE ROCK BL
 R	AV 36
 STOP AND REGROUP	
 INTO	FLETCHER DR
-R	L A River Trail
+R	L A RIVER TRAIL
 R	RIVERSIDE DR
 R	SONORA AV
 L	GLENOAKS BL
-STOP  	PARADISE BAKERY
-	1825 W Glenoaks Blvd
-L(EAST)Glen Oaks BLVD.
-R	Jackson
-L	Colorado Blvd.
-into	Colorado Blvd.
-R	Ellenwood
-STOP AND REGROUP	
-L	Yosemite Drive
-R	Figueroa Street
-R	York/Pasadena
-into	Monterey Road
-STOP AND REGROUP	
-R	Virginia
-L	Huntington
-into 	Santa Clara
+STOP	PARADISE BAKERY
+	1825 W GLENOAKS BL
+L(EAST)	GLEN OAKS B.
+R	JACKSON
+L	COLORADO BL
+into	COLORADO BL
+R	ELLENWOOD
+STOP AND REGROUP
+L	YOSEMITE DR
+R	FIGUEROA ST
+R	YORK/PASADENA
+into	MONTEREY RD
+STOP AND REGROUP
+R	VIRGINIA
+L	HUNTINGTON
+into	SANTA CLARA
 L	PRIMROSE AV
