@@ -24,24 +24,26 @@ R  San Dimas Ave
 REGROUP
 L  Bonita Ave
 R  White Ave
-R  MCKINLEY AV
-L  FAIRPLEX DR
-R  VIA VERDE
-R  PUENTE ST/REEDER AV (25.5 MILES)
+R  McKinley Ave
+L  Fairplex Drive
+R  Via Verde
+R  Puente St/Reeder Av (25.5 Miles)
 REGROUP
-L  OLD BADILLO ST/E. RENSHAW ST
-R  BANNA AV
-Q L BADILLO ST
-COFFEE STARBUCKS AT GRAND AV
-N  GRAND AV (28.5 MILES)
-L  SAN BERNARDINO RD
-R  AZUSA CANYON RD
+L  Old Badillo St/E. Renshaw St
+R  Banna Ave
+Q L Badillo St
+
+Coffee (Starbucks at Grand Ave)
+
+N  Grand Ave (28.5 MILES)
+L  San Bernardino Rd
+R  Azusa Canyon Rd
 REGROUP
-INTO	SANTA FE DAM ENTRANCE
-R  SAN GABRIEL BIKE PATH
-L  BIKE BRIDGE
-R  ENCANTO PKWY
-L  ROYAL OAKS DR
-R  SHAMROCK AV
-L  COLORADO BLVD
-R  PRIMROSE AV (42.47 MILES)
+INTO	Santa Fe Dam Entrance
+R  San Gabriel Bike Path
+L  Bike Bridge
+R  Encanto Pkwy
+L  Royal Oaks Dr
+R  Shamrock Ave
+L  Colorado Blvd
+R  Primrose Ave (42.47 Miles)
