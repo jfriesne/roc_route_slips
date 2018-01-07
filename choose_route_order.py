@@ -89,11 +89,13 @@ def CalculateSimilarityPercentage(words1, words2):
       return 1.0    
    return float(len(intersectionOfWords)) / len(unionOfWords)
 
+# Construct a dictionary of type filename -> {words -> ""}
 nameToWords = {}
 for fileName in sys.argv[1:]:
    nameToWords[fileName] = ParseRouteSlip(fileName)
 
-transitionToDistance = {}
+# Calculate the similarity of each route slip to the other route slips
+transitionToDistance = {}   # keyStr -> percentage
 for fileName1,fileContents1 in map(None, nameToWords.keys(), nameToWords.values()):
    for fileName2,fileContents2 in map(None, nameToWords.keys(), nameToWords.values()):
       if (fileName1 != fileName2):
@@ -101,25 +103,23 @@ for fileName1,fileContents1 in map(None, nameToWords.keys(), nameToWords.values(
    
 print "\nComputing the best sequence for %i route slips..." % len(nameToWords)
 
-# And finally we'll compute the shortest path through all the nodes in the
-# network via Sheer Brute Force
+# And finally we'll compute the shortest path through all the nodes
+# based on the various similarity-percentages between each pair of nodes
 minDist  = None
 bestPath = None
 
-# Brute force implementation -- will find the optimal result
+# Brute force implementation -- guaranteed to find the optimal result
 # but will also take way to long to complete if the number of route
 # slips is more than 5-10!
-
+# Disabled for now because we usually have 30+ routes to consider.
 #for nextPath in permutations(nameToWords.keys()):
 #   pathDist = CalculatePathLength(nextPath, transitionToDistance)
 #   if ((minDist == None) or (pathDist < minDist)):
 #      minDist  = pathDist
 #      bestPath = nextPath 
 
-
 # Greedy implementation -- not guaranteed to return the optimal
-# result, but close enough and will finish before the universal
-# ends.
+# result, but close enough and will finish before the universe ends.
 for start in nameToWords.keys():
    remainsToBeVisited = nameToWords.keys()
    nextPath = [start]
@@ -133,6 +133,7 @@ for start in nameToWords.keys():
       minDist  = pathDist
       bestPath = nextPath 
 
+# Print out our best result/sequence
 print
 if (bestPath != None):
    print "Recommended route-sequence is:"
