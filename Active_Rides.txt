@@ -1,12 +1,12 @@
 A_Ride_Around_Puddingstone.txt
-A_Ride_Carbon_Canyon.txt
+A_Ride_Claremont_with_a_Twist.txt
 A_Ride_E's_Excellent_Adventure.txt
 A_Ride_Easy_St_Into_Fortune_Way.txt
+A_Ride_Rio_Hondo_San_Gabriel_Lario_Rio_Hondo_Loop.txt
 A_Ride_San_Dimas_Bonelli_Park.txt
 A_Ride_Stough_Canyon.txt
 Bonelli_Park.txt
 Brea_Canyon.txt
-Carbon_Canyon_and_Harbor_Boulevard.txt
 Claremont_Original.txt
 Claremont_with_A_Twist.txt
 Double_Trouble_II.txt
