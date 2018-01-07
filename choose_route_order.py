@@ -91,8 +91,23 @@ def CalculateSimilarityPercentage(words1, words2):
 
 # Construct a dictionary of type filename -> {words -> ""}
 nameToWords = {}
-for fileName in sys.argv[1:]:
-   nameToWords[fileName] = ParseRouteSlip(fileName)
+if len(sys.argv) <= 1:
+   fileName = "Active_Rides.txt"
+   print "No arguments specified, reading %s to get route filenames to use" % fileName
+   fp = open(fileName)
+   if (fp != None):
+      lines = fp.readlines()
+      for line in lines:
+         routeFileName = line.strip();
+         if len(routeFileName) > 0:
+            nameToWords[routeFileName] = ParseRouteSlip(routeFileName)
+      fp.close()
+   else:
+      print "Couldn't open routes file %s" % fileName
+else:
+   # If any arguments were specified, we'll assume they are a list of route-slip file names
+   for fileName in sys.argv[1:]:
+      nameToWords[fileName] = ParseRouteSlip(fileName)
 
 # Calculate the similarity of each route slip to the other route slips
 transitionToDistance = {}   # keyStr -> percentage
