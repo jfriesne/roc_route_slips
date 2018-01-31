@@ -18,8 +18,8 @@ L	Foothill
 R	Amelia 
 L	Foothill 
 R San Dimas Ave
-Coffee at Starbucks
-(San Dimas & Bonita)
+  Coffee at Starbucks
+  (San Dimas & Bonita)
 C South on San Dimas
 R	Arrow Hwy 
 L	Cataract 
