@@ -1,0 +1,37 @@
+Turnbull Clockwise
+
+http://www.mapmyride.com/routes/fullscreen/187522410/	
+
+	Primrose south to Colorado	0.1
+L	Colorado east to Shmarock Ave   0.7
+R	Shamrock south to Royal Oaks Dr.	0.7
+L	Royal Oaks east to Encanto Pkwy.	3.9
+R	Encanto south to Bike Bridge	4.2
+L	Bike Bridge east to SGRBT	4.3
+R	SGRBT south through Santa Fe Dam to Azusa Canyon Rd.	7.9
+C	Azusa Cyn south to Cypress St.	8.9
+L	Cypress east to Vincent Ave.	9.6
+R	Vincent south to Glendora Ave.	11.9
+C	Glendora southwest to Hacienda Blvd.	14.0
+C	Hacienda south to Don Julian Rd.	16.2
+R	Don Julian west to Turnbull Canyon Rd.	17.0
+L	Turnbull Canyon south to Las Lomitas Dr.	19.7
+R/C	Turnbull Cyn west to summit	20.4
+C	Turnbull Cyn west to Beverly Blvd.	23.6
+C	Beverly Blvd west to Greenleaf Ave.	24.2
+L	Greenleaf south to Wardman St.	24.9
+	Coffee Stop. Coffee Bean and Tea Leaf	
+C	Wardman west to Pickering Ave.	25.2
+R	Pickering north to Beverly Dr.	25.8
+L	Beverly west Citrus/Beverly Dr.	26.4
+R	Beverly north/west to Workman Mill Dr.	27.1
+C	Workman Mill north to Peck Rd.	29.2
+C	Peck north to SGRBT	31.1
+R	SGRBT east to Arrow Hwy.	37.0
+L	Arrow west to Avenida Barbosa	38.1
+R	 Avenida Barbosa north to Buena Vista St.	38.4
+R	Buena Vista east/north to Royal Oaks Dr.	40.1
+L	Royal Oaks west to Shamrock Ave.	41.0
+R	Shamrock north to Colorado Blvd	41.1
+L	Colorado west to Primrose Av.	41.3
+R	Primrose Av north to start.	41.8
