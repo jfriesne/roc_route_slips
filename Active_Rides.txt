@@ -14,7 +14,7 @@ Garys_Long_Beach.txt
 Glenoaks_via_LA_River.txt
 Griffith_Park_and_Verdugos.txt
 Irving_St_Glenoaks.txt
-La_Tuna_Canyon_51.4_miles.txt
+A_Ride_La_Tuna_Canyon.txt
 Montrose_Lida_36.3_miles.txt
 Montrose_via_Allen_Lida_41.9_miles.txt
 Parnell_Park_Harbor_Blvd.txt
