@@ -1,4 +1,5 @@
 A_Ride_Around_Puddingstone.txt
+A_Ride_Brea_Canyon.txt
 A_Ride_Claremont_Original.txt
 A_Ride_Claremont_with_a_Twist.txt
 A_Ride_E's_Excellent_Adventure.txt
