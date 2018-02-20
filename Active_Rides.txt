@@ -5,6 +5,7 @@ A_Ride_Claremont_with_a_Twist.txt
 A_Ride_E's_Excellent_Adventure.txt
 A_Ride_Easy_St_Into_Fortune_Way.txt
 A_Ride_La_Tuna_Canyon.txt
+A_Ride_Montrose_Lida.txt
 A_Ride_Rio_Hondo_San_Gabriel_Lario_Rio_Hondo_Loop.txt
 A_Ride_San_Dimas_Bonelli_Park.txt
 A_Ride_Stough_Canyon.txt
@@ -16,7 +17,6 @@ Garys_Long_Beach.txt
 Glenoaks_via_LA_River.txt
 Griffith_Park_and_Verdugos.txt
 Irving_St_Glenoaks.txt
-Montrose_Lida_36.3_miles.txt
 Montrose_via_Allen_Lida_41.9_miles.txt
 Parnell_Park_Harbor_Blvd.txt
 Rio_Hondo_San_Gabriel_LA_RH_Loop.txt
