@@ -1,5 +1,5 @@
 Monrovia to Claremont
-42.1 miles
+32 miles
 
 Primrose South to Colorado
 L Colorado east to Shamrock (0.5)
@@ -25,4 +25,4 @@ Through Santa Fe RA to bike path
 R bike path north to bridge 
 L bridge west to Encanto 
 R Encanto north to Royal Oaks
-L Royal Oaks west to start
+L Royal Oaks west to start (32 miles)
