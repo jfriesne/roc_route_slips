@@ -1,0 +1,28 @@
+Monrovia to Claremont
+42.1 miles
+
+Primrose South to Colorado
+L Colorado east to Shamrock (0.5)
+R Shamrock south to Royal Oaks (0.5)
+L Royal Oaks east to Encanto (3.7)
+L Encanto south to bridge (4.0)
+L bridge east to bike path (4.2)
+L bike path north to Todd (4.9)
+R Todd south to Sierra Madre (5.2)
+L Sierra Madre east to Valley Center (10.4)
+R Valley Center south to Foothill (11.2)
+L Foothill east to Amelia (12.1)
+R Amelia south to Foothill (12.8)
+L Foothill 
+R San Dimas Ave
+  Coffee at Star Bucks (16 Miles)
+  (San Dimas and Bonita)	
+  Go back on San Dimas Ave (North)
+L Gladstone west to Motor Ave
+R Motor north to 1st
+L 1st west to Santa Fe RA entrance
+Through Santa Fe RA to bike path 
+R bike path north to bridge 
+L bridge west to Encanto 
+R Encanto north to Royal Oaks
+L Royal Oaks west to start
