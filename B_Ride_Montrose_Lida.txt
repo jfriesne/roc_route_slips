@@ -1,0 +1,46 @@
+Montrose Via Lida
+36.3 miles
+
+S Primrose to Chestnut
+R Chestnut west to Santa Clara (1.8)
+C Santa Clara west to Huntington (1.8)
+R Huntington southwest to Monterey (6.4)
+REGROUP
+R Monterey southwest/west to Pasadena (10.2)
+REGROUP
+R Pasadena north to Mission (10.5)
+L Mission a bit to Arroyo (10.5)
+R Arroyo north to Seco (13.7)
+REGROUP
+L Seco west to West (13.8)
+R West north to Silvia (14.4)
+L Silvia northwest to Linda Vista (14.8)
+R Linda Vista (15.0)
+C Linda Vista (A group takes L on Lida)
+C Highland Dr
+R Chevy Chase north Descanso (18.6)
+L Descanso northwest to Verdugo (19.4)
+L Verdugo west to Honolulu (20.2)
+C Honolulu west to Ocean View (20.4)
+Coffee at Coffee Bean and Tea Leaf
+C Honolulu east to Verdugo (20.6)
+C Verdugo east to Descanso (21.4)
+REGROUP
+R Descanso south/southeast to Chevy Chase (22.2)
+R Chevy Chase south to Berkshire (22.5)
+L Berkshire east to Berkshire Pl (23.5)
+RERGOUP
+L Berkshire east (bridge across 210) to Oak Grove Dr. (23.9)
+R Oak Grove Dr south to Woodbury Rd. (24.6)
+C Woodbury east to Mar Vista. (27.2)
+L Mar Vista north to New York Dr. (27.3)
+REGROUP
+R New York east to Sierra Madre (30.4)
+L Sierra Madre Blvd east to Elevado Ave. (33.4)
+R Elevado south to Virginia. (33.5)
+L Virginia east to Highland Oaks Dr. (33.5)
+R Highland Oaks south to Sycamore (34.1)
+L Sycamore east to 2nd (34.3)
+R Sycamore south to Colorado (34.8)
+L Colorado east to Primrose (36.0)
+L Primrose (36.3)
