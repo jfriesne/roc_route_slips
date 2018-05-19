@@ -14,14 +14,10 @@
 import sys
 
 # Just a cheap hack so we don't have to deal with escaping commas or quotes
-def SanitizeString(s):
+def SanitizeAndQuoteString(s):
    if (s.startswith("http")):
       return ""   # including the URLs in the route slips makes them too wide
    return s.replace(',', ';').replace('"', "'")
-
-# Returns the passed-in string, but sanitized and with quotes around it
-def SanitizeAndQuoteString(s):
-   return SanitizeString(s)
 
 seenBlankLine = False
 numCopies     = 3
