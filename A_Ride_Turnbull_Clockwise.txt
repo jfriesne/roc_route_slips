@@ -3,7 +3,7 @@ Turnbull Clockwise
 http://www.mapmyride.com/routes/fullscreen/187522410/	
 
 	Primrose south to Colorado	0.1
-L	Colorado east to Shmarock Ave   0.7
+L	Colorado east to Shamrock Ave   0.7
 R	Shamrock south to Royal Oaks Dr.	0.7
 L	Royal Oaks east to Encanto Pkwy.	3.9
 R	Encanto south to Bike Bridge	4.2
