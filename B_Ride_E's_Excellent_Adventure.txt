@@ -32,10 +32,9 @@ REGROUP
 L  Old Badillo St/E. Renshaw St
 R  Banna Ave
 Q L Badillo St
-
-Coffee (Starbucks at Grand Ave)
-
 N  Grand Ave (28.5 MILES)
+(Coffe at either MacDonalds on Grand
+or Costa Family Restaurant at San Bernardino)
 L  San Bernardino Rd
 R  Azusa Canyon Rd
 REGROUP
