@@ -1,0 +1,45 @@
+B Ride Double Trouble II
+34.76 Miles, 1952 Feet Gain
+https://www.mapmyride.com/routes/view/2168204311
+
+S  Primrose Ave
+R  Colorado Blvd
+R  Santa Anita Ave (2)
+L  Orange Grove Ave
+R  Sunnyside Ave
+L  Sierra Madre Blvd (5)
+REGROUP
+R  Orange Grove Blvd (7)
+R  Prospect Blvd (10.75)
+L  Armada Drive
+L  Westgate St
+L  Arroyo Blvd
+L  Rosemont Ave
+R  Seco St
+R  West Drive
+L  Sylvia Canyon Rd
+R  Linda Vista Ave
+L  Lida St
+REGROUP at top of Lida
+R  Figueroa St (15)
+C  Chevy Chase Drive
+L  Descanso Drive (17.5)
+REGROUP
+L  Verdugo west to Honolulu
+C  Honolulu west to Ocean View (19)
+   Coffee at Coffee Bean and Tea Leaf
+E  Honolulu Ave
+C  Verdugo
+R  Foothill Blvd (20)
+R  Oak Grove Dr south to Woodbury Rd. (21.75)
+C  Woodbury east to Mar Vista. (25.5)
+L  Mar Vista north to New York Dr. 
+REGROUP
+R  New York east to Sierra Madre (28.75)
+L  Sierra Madre Blvd east to Santa Anita. 
+R  Santa Anita. (31.5)
+L  Sycamore east to 2nd 
+R  2nd south to Colorado 
+L  Colorado east to Primrose 
+L  Primrose (34.76)
+
