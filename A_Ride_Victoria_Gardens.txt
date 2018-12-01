@@ -32,6 +32,7 @@ C  Jack Benny Drive
 L  Rochester Ave
 R  Arrow Route West (for a long way)
 REGROUP
+C  Sixth Street
 L  N Indian Hill Blvd
 R  W Bonita Ave
 R  Damien Ave
