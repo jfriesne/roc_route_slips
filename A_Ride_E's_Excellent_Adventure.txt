@@ -31,7 +31,7 @@ R  Phillips Ranch Road
 L  Village Loop Road
 C  Santa Clara Drive
 L  Ave Rancheros
-L  N Diamond Bar Blvd
+L  N Diamond Bar Blvd (41 miles)
 C  S Diamond Bar Blvd
 R  Pathfinder Road
 REGROUP
@@ -48,7 +48,7 @@ R  Villaverde Drive
 L  Mar Vista St
 R  Greenleaf Ave
 
-Coffee Bean & Tea Leaf
+Coffee Bean & Tea Leaf (48 miles)
 7201 Greenleaf Ave Whittier
 
 L  Beverly Blvd
