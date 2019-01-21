@@ -31,8 +31,13 @@ R  Phillips Ranch Road
 L  Village Loop Road
 C  Santa Clara Drive
 L  Ave Rancheros
-L  N Diamond Bar Blvd (41 miles)
+L  N Diamond Bar Blvd 
 C  S Diamond Bar Blvd
+
+OPTIONAL COFFEE BREAK AT
+the Coffee Bean (28 miles)
+235 S Diamond Bar Blvd 
+
 R  Pathfinder Road
 REGROUP
 L  Harbor Blvd
