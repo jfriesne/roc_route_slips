@@ -31,8 +31,8 @@ L  Woodleigh Lane
 L  Foothill Blvd
 R  Rosemont Ave
 L  Orange Ave
-L  Pennsylvania Ave
-QR Orange Ave
+Cross Pennsylvania Ave to
+C  Orange Ave
 C  Santa Carlotta St
 R  Lowell Ave
 L  Day St
