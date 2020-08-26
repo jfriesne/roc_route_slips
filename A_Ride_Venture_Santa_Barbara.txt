@@ -1,8 +1,8 @@
 Total Miles	Turns EMMA WOOD SHORT      	For
 0.0	L       Enter Emma Wood State Park	0.1
 0.1	R      Emma Wood Bike Trail North	3.0
-3.1	L       Exit Bike Trail & Continue North on Old PCH 	6.0
-9.1	L       1/4 mile beyond Fire Station #25 turn left under
+3.1	L      Exit Bike Trail & Continue North on Old PCH 	6.0
+9.1	L      1/4 mile beyond Fire Station #25 turn left under
                Fwy just B4 dirt rd (Regroup)	0.1
 9.2	R      Mobil Pier Rd continues onto new Bike Lane	3.8
 13.0	R      Bates Rd/Rincon Hill Req Exit	0.8
