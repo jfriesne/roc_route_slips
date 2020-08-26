@@ -1,0 +1,29 @@
+Total Miles	Turns EMMA WOOD SHORT      	For
+0.0	L       Enter Emma Wood State Park	0.1
+0.1	R      Emma Wood Bike Trail North	3.0
+3.1	L       Exit Bike Trail & Continue North on Old PCH 	6.0
+9.1	L       1/4 mile beyond Fire Station #25 turn left under 
+                           Fwy just B4 dirt rd (Regroup)	0.1
+9.2	R      Mobil Pier Rd continues onto new Bike Lane	3.8
+13.0	R      Bates Rd/Rincon Hill Req Exit	0.8
+13.8	R      Rincon Rd (Hwy 150) Regroup	0.8
+14.6	L      Casitas Pass Rd (Hwy 192) changes to Foothill Rd	3.5
+18.1	R      At Stop Sign(Linden Ave) Jog Rt 
+	        then left to continue on Hwy 192	1.5
+19.6	L      Nidever (Regroup)		0.2
+19.8	R     Via Real/Lillie Ave 		2.0
+21.8	X      Summerland Beach Cafe  2294 Lillie Ave  (805) 969-4363 or 
+                           Cantwell's Deli(Great BBQ) 2580 Lillie Ave.(805) 969-5893	0.0
+21.8	L       South on Lillie Ave/Via Real		1.2
+23.0	R       Padaro Ln			2.0
+25.0	L        At Underpass			0.1
+25.1	R       Via Real			1.7
+26.8	R        Santa Ynez			0.2
+27.0	L        Carpenteria Ave 			2.7
+29.7	L        Enter Fwy 101 So @ Rincon Rd (Regroup)	0.5
+30.2	R       Exit@Bates Rd then go beyond Stop Sign/enter Bike Lane	3.5
+33.7	L        Exit @ Seacliff/Mobil Pier Rd/go under fwy	0.1
+33.8	R       Old PCH to end			7.0
+40.8	C       Up Fwy Ramp/Do Not Go Right	0.1
+40.9	R        Enter Emma Wood Bike Trail	3.0
+43.9	R        onto Main street & Cars"End"	0.1
