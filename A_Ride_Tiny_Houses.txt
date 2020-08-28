@@ -1,0 +1,70 @@
+Tiny Houses
+A route - 53 miles, 2700 ft
+B route - 39 miles, 2070 ft
+
+S  Primrose Ave
+R  Colorado Blvd
+R  Santa Anita Ave
+L  Orange Grove Ave
+R  Sunnyside Ave
+L  Sierra Madre Blvd
+REGROUP
+R  Paloma St (7 miles)
+PICK UP B riders
+C  Paloma
+L  Altadena Dr
+R  Villa St
+R  Cypress Ave
+L  Orange Grove Blvd
+R  Colorado Blvd (16 m)
+R  Monte Bonito Dr. (climbing)
+L  Hill Dr
+R  Eagle Vista Dr (short RT)
+L  Hill Dr
+C  Live Oak View Ave
+R  Las Flores Dr
+C  Sumner Ave
+R  Broadway
+C  Wilson
+L  Verdugo Rd (cross Eagle Rock)
+C  Ave 40 
+L  Scandia Way (climbing)
+R  Ave 42
+C  Division St
+L  Cypress Ave
+R  Ave 28 (slight rt)
+R  Figueroa St
+INTO Bike Path (rt side at circle) (23 m)
+COFFEE Spoke Bicycles Cafe
+C  Bike Path
+R  Riverside
+R  Sonora
+R  5th St
+C  Glenwood Rd
+R  Concord
+L  Stocker St
+R  Rossmoyne Ave
+L  Rossmoyne Ave
+C  Glenoaks Blvd
+R  Verdugo Rd
+L  Chevy Chase Dr
+R  Linda Vista
+C  Lida St
+L  Parkview Ave
+L  Washington Blvd
+R  Forest Ave
+C  Lincoln Ave
+L  Mountain St
+L  Hill Ave (short hickup)
+R  Mountain St
+R  Altadena Dr
+L  Paloma (B group done)
+L  Sierra Madre
+R  Santa Anita
+L  Sycamore
+R  2nd st
+L  Colorado
+L  Primrose
+R  Von's parking lot
+
+
