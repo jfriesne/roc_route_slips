@@ -20,7 +20,7 @@ def SanitizeAndQuoteString(s):
    return s.replace(',', ';').replace('"', "'")
 
 seenBlankLine = False
-numCopies     = 3
+numCopies     = 2
 
 for inLine in sys.stdin:
    inLine = inLine.strip()
