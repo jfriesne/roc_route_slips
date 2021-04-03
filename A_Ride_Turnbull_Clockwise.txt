@@ -19,10 +19,9 @@ L	Turnbull Canyon south to Las Lomitas Dr.	19.7
 R/C	Turnbull Cyn west to summit	20.4
 C	Turnbull Cyn west to Beverly Blvd.	23.6
 C	Beverly Blvd west to Greenleaf Ave.	24.2
-L	Greenleaf south to Wardman St.	24.9
-	Coffee Stop. Coffee Bean and Tea Leaf	
-C	Wardman west to Pickering Ave.	25.2
-R	Pickering north to Beverly Dr.	25.8
+L	Greenleaf south to Mimo's Cafe.	24.9
+	Coffee @ Mimo's: 6735 Greenleaf Ave
+N	Greenleaf Ave back to Beverly Blvd.	25.2
 L	Beverly west Citrus/Beverly Dr.	26.4
 R	Beverly north/west to Workman Mill Dr.	27.1
 C	Workman Mill north to Peck Rd.	29.2
