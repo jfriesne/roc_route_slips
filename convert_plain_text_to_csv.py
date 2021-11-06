@@ -13,6 +13,13 @@
 
 import sys
 
+numCopies = 3
+if len(sys.argv) > 1:
+   try:
+      numCopies = int(sys.argv[1])
+   except:
+      pass
+
 # Just a cheap hack so we don't have to deal with escaping commas or quotes
 def SanitizeAndQuoteString(s):
    if (s.startswith("http")):
@@ -20,7 +27,6 @@ def SanitizeAndQuoteString(s):
    return s.replace(',', ';').replace('"', "'")
 
 seenBlankLine = False
-numCopies     = 2
 
 for inLine in sys.stdin:
    inLine = inLine.strip()
