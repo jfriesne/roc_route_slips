@@ -40,13 +40,13 @@ for inLine in sys.stdin:
                outLine += ", "
             outLine += SanitizeAndQuoteString(toks[0][0:7])
             outLine += ', ' + SanitizeAndQuoteString(theRest)
-         print outLine
+         print(outLine)
    elif len(inLine) > 0:
       outLine = ''
       for copyIdx in range(0, numCopies):
          if len(outLine) > 0:
             outLine += ', '
          outLine += SanitizeAndQuoteString('') + ', ' + SanitizeAndQuoteString(inLine)
-      print outLine
+      print(outLine)
    else:
       seenBlankLine = True
