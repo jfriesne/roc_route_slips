@@ -77,6 +77,7 @@ Right onto Calle Puente  62.0 mi
 Right onto W Avenida Palizada  62.5 mi
 SharpLeft onto N Calle Seville  62.6 mi
 Continue onto Avenida Santa Barbara  62.8 mi
+Right onto S Ola Vista
 Right onto Avenida Madrid  63.0 mi
 Continue onto Avenida Victoria  63.1 mi
 Left  63.4 mi
