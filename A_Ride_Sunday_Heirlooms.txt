@@ -1,0 +1,44 @@
+8:00am Sunday "A" Ride
+30 Miles to Heirlooms Cafe
+
+Start @ Von's Parking Lot
+L	Primrose Ave
+R	Chestnut Ave
+C	Santa Clara St
+R	Huntington Dr
+R	Monterey Rd 
+REGROUP
+R	Diamond Ave
+L	Mission St
+Stop	Heirloom Bakery
+R	Mission St
+R	Grand Ave
+C	Arroyo Blvd
+L	Seco St 
+REGROUP
+R	West Dr
+L	Salvia Canyon Dr
+R	Linda Vista Ave 
+REGROUP
+R	Foothill Fwy Overpass 
+REGROUP
+R	Oak Grove Ave
+L	Windsor Ave
+R	Ventura St
+L	Casitas Ave
+R	Altadena Dr 
+REGROUP
+L	New York Dr 
+REGROUP
+L	Sierra Madre Blvd
+R	Hastings Ranch Rd 
+REGROUP
+L	Greenhill Rd
+C	Orange Grove Ave
+R	Santa Anita Ave
+L	Sycamore Ave
+R	Second Ave 
+REGROUP
+L	Colorado Blvd
+L	Primrose Ave
+R	Von's Parking Lot
