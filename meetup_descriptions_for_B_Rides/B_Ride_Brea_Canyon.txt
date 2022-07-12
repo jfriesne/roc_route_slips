@@ -1,0 +1,3 @@
+This is the B ride toward Brea Canyon. The ride follows the A group until Parnel Park. At this point the B ride heads north and works it's way back to the starting point. The ride is 43 miles.
+Please print off the route slip: https://github.com/jfriesne/roc_route_slips/blob/master/B_Ride_Brea_Canyon.txt
+The route map can be found at: http://www.mapmyride.com/routes/fullscreen/1988249309/

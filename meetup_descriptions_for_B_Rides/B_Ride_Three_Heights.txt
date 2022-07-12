@@ -1,0 +1,5 @@
+This is the B version of the Three Heights Ride. It avoids most of the climbing and is 43.5 miles with an elevation gain of 1211 ft. It mirrors the A ride to Lemon Av and then deviates as the ride heads back home. Please look at the Route slip and print off a copy to bring with you: 
+
+https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Three_Heights.txt 
+
+The route map can be found at: http://www.mapmyride.com/routes/view/2022701218

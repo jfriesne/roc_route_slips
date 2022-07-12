@@ -1,0 +1,7 @@
+This is the B ride version of Turnbull Canyon Counter Clockwise without the canyon. It is 38.45 miles with 1026 ft of elevation. Coffee is in Glendora
+
+Route slip:
+
+https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Turnbull_Canyon_CC_without_Canyon.txt
+
+Route map: http://www.mapmyride.com/routes/view/2045665417

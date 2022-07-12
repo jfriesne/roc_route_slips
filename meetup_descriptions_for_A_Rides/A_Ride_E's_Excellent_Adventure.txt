@@ -1,0 +1,5 @@
+This is "E's Excellent Adventure", a 63 mile ride with 3154 feet of elevation gain.
+
+Please download the route slip from this link (https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_E's_Excellent_Adventure.txt), print it out, and keep it with you during the ride.
+
+You can view a map of this route by clicking here (http://www.mapmyride.com/routes/view/1648187000).

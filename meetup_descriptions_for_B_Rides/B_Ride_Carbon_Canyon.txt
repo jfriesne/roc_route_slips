@@ -1,0 +1,8 @@
+The B riders follow the A riders to Parnell Park. At this point they have a choice to either continue with the A riders but turn off at Brea Blvd or do the Brea Canyon ride without the canyon. Both routes are provided.
+
+https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Carbon_Canyon.txt
+
+For the Brea canyon without the canyon use the B route above to get to Parnell Park and then use this route to get home.
+https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Brea_Canyon.txt
+
+

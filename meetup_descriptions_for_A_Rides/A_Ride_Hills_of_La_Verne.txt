@@ -1,0 +1,1 @@
+This is a new ride where we explore the hills of La Verne, San Dimas and Bonelli Park. Route slip: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Hills_of_La_Verne.txt

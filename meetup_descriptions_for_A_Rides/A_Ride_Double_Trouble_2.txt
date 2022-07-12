@@ -1,0 +1,5 @@
+This is the Double Trouble 2 ride, a challenging 52 mile ride with 3977 feet of elevation gain.
+
+Please download the route slip from this link (https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Double_Trouble_2.txt), print it out, and keep it with you during the ride.
+
+You can view a map of the route by clicking here (http://www.mapmyride.com/routes/view/1648207955).

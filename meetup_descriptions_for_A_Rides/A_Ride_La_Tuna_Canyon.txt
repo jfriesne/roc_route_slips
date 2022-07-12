@@ -1,0 +1,7 @@
+This ride is the "La Tuna Canyon - Honolulu" ride. It is 51.75 mile ride with 1,900 feet of elevation gain, with a stop at the Coffee Bean & Tea Leaf in the middle.
+
+Please download the route slip from this link (https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_La_Tuna_Canyon.txt), print it out, and keep it with you during the ride.
+
+You can view a map of this route by clicking here (http://www.mapmyride.com/routes/view/997588891).
+
+For those that don't want to do the entire ride the B portion will stop at Paradise Bakery on Glenoaks returning via Monterey and Huntington. Please download route map: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_La_Tuna_Cyn.txt

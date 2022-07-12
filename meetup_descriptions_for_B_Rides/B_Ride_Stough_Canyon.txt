@@ -1,0 +1,5 @@
+This is the B ride which accompanies the A ride to Stough Canyon. This ride misses the canyon and goes for coffee a little early. Coffee is in the same spot as the A riders so you have the option of waiting and riding back together. 42.9 miles with 1931.8 ft of elevation.
+
+Route slip: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Stough_Canyon.txt
+
+Route map: http://www.mapmyride.com/routes/view/2111090425

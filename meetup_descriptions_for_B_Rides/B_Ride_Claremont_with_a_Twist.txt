@@ -1,0 +1,3 @@
+This is the accompanying ride for Claremont with a twist. The ride branches off at San Dimas and does not make it to Claremont. Coffee is at the Starbucks at San Dimas and Bonita. The ride is 34 miles.
+
+Please download the route slip at: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Claremont_with_a_Twist.txt

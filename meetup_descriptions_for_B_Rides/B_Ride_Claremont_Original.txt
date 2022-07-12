@@ -1,0 +1,5 @@
+This is a shortened version of the Claremont Original Ride. It is 34 miles with 1250 feet of climbing.
+
+Please download the route slip at https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_Claremont_Original.txt
+
+A map of the route can be viewed at http://www.mapmyride.com/routes/view/1906191887

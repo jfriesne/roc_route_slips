@@ -1,0 +1,3 @@
+This ride truncates 1/2 of the climbing and sorta becomes a Boneli Park ride. It is 42.47 miles with 1832 ft of climbing. The Starbucks is closed so try MacDonald's on Grand or Costa on San Bernadino.
+
+Download the route slip from: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/B_Ride_E's_Excellent_Adventure.txt

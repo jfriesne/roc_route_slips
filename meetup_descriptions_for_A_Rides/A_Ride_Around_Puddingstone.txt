@@ -1,0 +1,5 @@
+This is the ROC-Around Puddingstone ride, it's a 42 mile ride with 1762 feet of elevation.
+
+Please download the route slip from this link (https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Around_Puddingstone.txt), print it out, and keep it with you during the ride.
+
+You can view a map of this route by clicking here http://www.mapmyride.com/routes/view/2004587978 (note: slight difference betw this and the route slip at the start. Follow the route slip. Will work on changing the map)

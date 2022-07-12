@@ -1,0 +1,5 @@
+Griffith Park and Verdugos ride, a 52.5 mile ride with 2851 feet of elevation gain.
+
+Please download the route slip from this link (https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Griffith_Park_and_Verdugos.txt), print it out, and keep it with you during the ride.
+
+You can view a map of this route by clicking here (http://www.mapmyride.com/routes/view/1648164245).
