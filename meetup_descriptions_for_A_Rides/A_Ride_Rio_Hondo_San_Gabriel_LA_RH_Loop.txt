@@ -2,4 +2,4 @@ Take a leisurely ride down the San Gabriel bike path to Rosecrans. Exit the bike
 
 B riders can start at Peck Park for a distance of about 40 miles. Give the A riders 20 to 25 minutes to get to Peck Park.
 
-Route slip: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/Rio_Hondo_San_Gabriel_LA_RH_Loop.txt
+Route slip: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Rio_Hondo_San_Gabriel_LA_RH_Loop.txt
