@@ -1,5 +1,0 @@
-This is the Glenoaks via LA River bike path ride. It is 47 miles with 2016 feet of elevation. Coffee is at Basecamp on riverside.
-
-Please download the route slip at: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Glenoaks_via_LA_River.txt
-
-Route map can be found at: http://www.mapmyride.com/routes/view/2076109486
