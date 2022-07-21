@@ -1,0 +1,14 @@
+C	Lillies
+C	Ortega
+L	Bike path
+	just passed entrance to 101
+L	Ortega
+L	N Jamerson LN
+C	Good Village Rd
+L	hot Springs Rd (roundabout)
+C	E Cable blvd
+L	Bike path (at Milpass St)
+	End ride at Pershing Park
+	Explore Santa Barbara
+	Return to Summerland the same route
+ 	and use original route to Ventura
