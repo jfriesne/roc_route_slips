@@ -1,6 +1,4 @@
-Total Miles	
-    Turns                             	For
-0.0	L       Enter Emma Wood State Park	0.1
+0.0	L      Enter Emma Wood State Park	0.1
 0.1	R      Emma Wood Bike Trail North	3.0
 3.1	L      Exit Bike Trail & Continue North on Old PCH 	6.0
 9.1	L      1/4 mile beyond Fire Station #25 turn left under
@@ -9,12 +7,14 @@ Total Miles
 13.0	R      Bates Rd/Rincon Hill Req Exit	0.8
 13.8	R      Rincon Rd (Hwy 150) Regroup	0.8
 14.6	L      Casitas Pass Rd (Hwy 192) changes to Foothill Rd	3.5
-18.1	R      At Stop Sign(Linden Ave) Jog Rt 
+18.1	R      At Stop Sign(Linden Ave) Jog Rt
                then left to continue on Hwy 192	1.5
 19.6	L      Nidever (Regroup)		0.2
 19.8	R      Via Real/Lillie Ave 		2.0
-21.8	X      Summerland Beach Cafe  2294 Lillie Ave  (805) 969-4363 or 
-               Cantwell's Deli(Great BBQ) 2580 Lillie Ave.(805) 969-5893	0.0
+21.8	X      Summerland Beach Cafe
+               2294 Lillie Ave  (805) 969-4363 or
+               Cantwell's Deli(Great BBQ)
+               2580 Lillie Ave.(805) 969-5893	0.0
 21.8	L      South on Lillie Ave/Via Real	1.2
 23.0	R      Padaro Ln			2.0
 25.0	L      At Underpass			0.1

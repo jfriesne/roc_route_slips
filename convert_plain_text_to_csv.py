@@ -1,12 +1,12 @@
 # This script reads a specified .txt file from stdin
 # and outputs a corresponding .csv file to stdout
-# 
+#
 # The CSV file will contain (N*copies), and represent
 # N copies of the route slip.  That way it is possible
-# to print extra copies of the route slip without 
+# to print extra copies of the route slip without
 # using up an extra sheet of paper for every extra copy.
 #
-# Usage: 
+# Usage:
 #
 #   python <some_route_slip_file.txt >some_route_slip_file.csv
 #

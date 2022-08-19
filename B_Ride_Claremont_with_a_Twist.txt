@@ -1,38 +1,38 @@
-CLAREMONT w/A TWIST - B ROUTE 
+CLAREMONT w/A TWIST - B ROUTE
 34 miles
 
-S	Primrose 
-L	Colorado 
+S	Primrose
+L	Colorado
 R	Shamrock
 L	Royal Oaks
-R	Encanto 
-L	Bike Bridge 
+R	Encanto
+L	Bike Bridge
 STOP	REGROUP
-L	Bike Path 
-R	Todd 
+L	Bike Path
+R	Todd
 L	Sierra Madre
-R	Valley Center 
+R	Valley Center
 STOP	REGROUP
-L	Foothill 
-R	Amelia 
-L	Foothill 
+L	Foothill
+R	Amelia
+L	Foothill
 R San Dimas Ave
   Coffee at Starbucks
   (San Dimas & Bonita)
 C South on San Dimas
-R	Arrow Hwy 
-L	Cataract 
+R	Arrow Hwy
+L	Cataract
 INTO	Covina
-INTO	Badillo 
-R	Orange 
+INTO	Badillo
+R	Orange
 L	San Bernardino
-R	Azusa Canyon 
+R	Azusa Canyon
 INTO	Santa Fe Recreation Park
 R INTO	Bike Path at Entrance Booth
 N	Bike Path
-L	Bike Bridge 
-R	Encanto 
-L	Royal Oaks 
+L	Bike Bridge
+R	Encanto
+L	Royal Oaks
 R	Shamrock
-L	Colorado 
-R	Primrose 
+L	Colorado
+R	Primrose

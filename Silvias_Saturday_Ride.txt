@@ -1,40 +1,40 @@
-27.96 miles   1,409 feet elevation 
+27.96 miles   1,409 feet elevation
 Coffee Stop at Starbucks
 @ Vons Parking Lot, End of Ride
- 
+
 L Primrose
 R Colorado
-R Second 
-L Sycamore 
-R Santa Anita 
+R Second
+L Sycamore
+R Santa Anita
 L Orange Grove
-R Sunnyside   
+R Sunnyside
 L Sierra Madre Blvd.
-Regroup 
-R Paloma 
-L Palo Verde 
-R Orange Grove 
-R Prospect Blvd 
 Regroup
-L Prospect Terrace 
-R Rosemont Ave 
-L Seco St 
+R Paloma
+L Palo Verde
+R Orange Grove
+R Prospect Blvd
+Regroup
+L Prospect Terrace
+R Rosemont Ave
+L Seco St
 L Salvia Canyon
 R Linda Vista Ave
-Regroup at Bridge 
-R Oak Grove Dr 
-L Windsor Ave 
-R Ventura St 
-L Casitas Ave 
+Regroup at Bridge
+R Oak Grove Dr
+L Windsor Ave
+R Ventura St
+L Casitas Ave
 R Altadena Dr.
-Regroup 
+Regroup
 L New York
-Regroup 
-L Sierra Madre Blvd 
-R Elevado 
-L Virginia Dr 
-R Highland Oaks Dr 
-L Sycamore  
-R Second 
-L Colorado 
-L Primrose 
+Regroup
+L Sierra Madre Blvd
+R Elevado
+L Virginia Dr
+R Highland Oaks Dr
+L Sycamore
+R Second
+L Colorado
+L Primrose

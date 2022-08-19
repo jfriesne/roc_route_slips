@@ -1,7 +1,7 @@
-# This script reads all of the specified .txt files 
-# and parses their contents for keywords.  Then it 
-# figures out the files that have the fewest words 
-# in common and prints out the file names in that 
+# This script reads all of the specified .txt files
+# and parses their contents for keywords.  Then it
+# figures out the files that have the fewest words
+# in common and prints out the file names in that
 # order.
 #
 # The intent is to create a route-slips ordering
@@ -9,7 +9,7 @@
 # other, so that people don't complain about riding
 # nearly-the-same-ride two weeks in a row.
 #
-# Usage: 
+# Usage:
 #
 #   python choose_route_order.py *.txt
 #
@@ -67,7 +67,7 @@ def ParseRouteSlip(fileName):
       fp.close()
    return words
 
-# Returns the number of unique words that are present in both sets, 
+# Returns the number of unique words that are present in both sets,
 # divided by the unique words in at least one set.
 # Thus, if we return 0.0, the two sets are completely disjoint
 # or if we returns 1.0 the two sets are identical
@@ -83,10 +83,10 @@ def CalculateSimilarityPercentage(words1, words2):
       unionOfWords[w2] = ""
       if (w2 in words1):
          intersectionOfWords[w2] = ""
-    
+
    # Paranoia: Avoid potential divide-by-zero
    if (len(unionOfWords) == 0):
-      return 1.0    
+      return 1.0
    return float(len(intersectionOfWords)) / len(unionOfWords)
 
 # Construct a dictionary of type filename -> {words -> ""}
@@ -115,7 +115,7 @@ for fileName1,fileContents1 in nameToWords.items():
    for fileName2,fileContents2 in nameToWords.items():
       if (fileName1 != fileName2):
          transitionToDistance[fileName1 + " -> " + fileName2] = CalculateSimilarityPercentage(fileContents1, fileContents2)
-   
+
 print("\nComputing the best sequence for %i route slips..." % len(nameToWords))
 
 # And finally we'll compute the shortest path through all the nodes
@@ -131,7 +131,7 @@ bestPath = None
 #   pathDist = CalculatePathLength(nextPath, transitionToDistance)
 #   if ((minDist == None) or (pathDist < minDist)):
 #      minDist  = pathDist
-#      bestPath = nextPath 
+#      bestPath = nextPath
 
 # Greedy implementation -- not guaranteed to return the optimal
 # result, but close enough and will finish before the universe ends.
@@ -146,7 +146,7 @@ for start in nameToWords.keys():
    pathDist = CalculatePathLength(nextPath, transitionToDistance)
    if ((minDist == None) or (pathDist < minDist)):
       minDist  = pathDist
-      bestPath = nextPath 
+      bestPath = nextPath
 
 # Print out our best result/sequence
 print()

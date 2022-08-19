@@ -51,7 +51,7 @@ L  Foothill Blvd
 QR La Canada Blvd
 R  Vista Del Valle Rd
 REGROUP
-R  Vista Del Valle 
+R  Vista Del Valle
 L  Angeles Crest Hwy
 R  Starlight Crest Drive
 R  Crown Ave
