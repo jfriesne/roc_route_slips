@@ -1,3 +1,5 @@
-This ride is the same route as the Claremont Origional ride, but backwards.
-No coffee break in Claremont. We continue on and have breakfast at Mr. D's Diner on Baseline. About 43 miles and 1250 elevation.
-Route slip - https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Claremont_Edir_Lanigiro.txt
+This ride is the same route as the Claremont Original ride, but backwards.
+
+No coffee break in Claremont; instead, we continue on and have breakfast at Mr. D's Diner on Baseline.   This ride is about 43 miles with 1250 feet of elevation gain.
+
+Route slip is here:  https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Claremont_Edir_Lanigiro.txt
