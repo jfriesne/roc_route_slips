@@ -1,11 +1,16 @@
-Join us on a wild ride from Corona or Anaheim to San Clemente. We take the beautiful Santa Ana trail down to the ocean and then continue along the ocean front to San Clemente. Lots of rest breaks along the way. B riders can start in Anaheim and join us on the bike trail by Katella Ave. The A ride is 63.5 miles and the B ride is 43 miles. Once in San Clemente we take the Metro link back. We will have lunch at the peer in San Clemente as we await the train.
+Join us on a wild ride from Corona or Anaheim to San Clemente. The "A" ride starts at the West Corona Metrolink station (see map below) and takes the beautiful Santa Ana trail down to the ocean and then continue along the ocean front to San Clemente. Lots of rest breaks along the way.
 
-San Clemente to Corona Metro link 3:11 and 4:47
-San Clemente to Anaheim Metro link 1:43 and 5:55
+B riders can start at the Anaheim MetroLink station (ARTIC) and join us on the bike trail by Katella Ave around 9AM. Let me know if you're going to be doing the B ride so that I'll know to look for you there.
+
+The A ride is 63.5 miles and the B ride is 43 miles. Once in San Clemente we take the Metro link back. We will have lunch at the pier in San Clemente as we await the train.
+
+San Clemente to Corona Metro link 2:59 and 4:52
+San Clemente to Anaheim Metro link 1:52 and 5:47
 
 Option for those starting in Anaheim they can take the train to Corona and be driven back to their cars.
 
-Check out the route map: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_B_Ride_Corona_to_San_Clemente.txt
+Here is the ride's route slip; be sure to print out a copy and bring it with you:
+https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_B_Ride_Corona_to_San_Clemente.txt
 
-Check out the actual map:
+Here is a map of the ride's route:
 https://ridewithgps.com/routes/36028490
