@@ -1,4 +1,4 @@
-This ride takes us to Victoria Gardens out by Rancho Cucamonga. It is a long ride, 64 miles with 2006 feet of elevation. To cut down on mileage people can meet at the Enchanto bridge. This reduces the ride to 54 miles. B rides can drop off at Claremont. 
+This ride takes us to Victoria Gardens out by Rancho Cucamonga. It is a long ride, 64 miles with 2006 feet of elevation.   Those who would like to cut down on mileage can meet the group at the Encanto bridge.   This reduces the ride to 54 miles.  B riders can drop off at Claremont. 
 
 "A Route" route slip for Victoria Gardens: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_Victoria_Gardens.txt
 
