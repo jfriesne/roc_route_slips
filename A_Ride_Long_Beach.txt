@@ -1,25 +1,23 @@
 Gary's Long Beach Ride
 Jeremy's cell: (626) 487 3194
 
-0.0 S Myrtle
-3.0 R Peck Park
-3.1 Enter Rio hondo
-10.3 Regroup @ gate
-10.3 R Cross San Gabriel
-17.7 Anson Ford Park
-18.3 Cross bridge
-31.9 Regroup in Long Beach
-45.5 Cross Bridge
-46.1 Regroup @ Anson Ford Park
-46.2 Parking lot behind restrooms
-46.3 L onto Scout Ave
-46.5 L Emil Ave
-46.7 Tom's Burgers
-46.8 R Emil Ave
-46.9 R Scout Ave
-47.0 Into Parking Lot
-47.1 L return to Rio Hondo bike path
-54.4 Cross San Gabriel
-54.4 Regroup @ gate
-61.6 Peck Park
-64.6 The Corner
+S Myrtle
+R Peck Park
+S Enter Rio hondo
+R Cross San Gabriel
+S to Anson Ford Park
+Cross bridge
+S to Long Beach
+U-turn at end of bike path
+Cross Bridge
+L Firestone Blvd
+L Garfield Ave
+Coffee @ Panera Bread
+5802 Firestone Blvd Ste 100
+N Garfield Ave
+R Firestone Blvd
+L Rio Hondo Bike Path
+Cross San Gabriel
+Regroup @ gate
+Peck Park
+The Corner
