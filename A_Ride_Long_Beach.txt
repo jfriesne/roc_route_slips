@@ -1,14 +1,23 @@
 Gary's Long Beach Ride
 Jeremy's cell: (626) 487 3194
 
-S Myrtle
-R Peck Park
-S Enter Rio hondo
-R Cross San Gabriel
-S to Anson Ford Park
-Cross bridge
-S to Long Beach
-U-turn at end of bike path
+Start at Vons
+S Primrose
+R Chestnut
+L Mayflower
+R Camino Real
+L 10th Ave
+R Live Oak Ave
+L Tyler Ave
+L Santa Anita Ave
+S Rio Hondo Bike Path
+R San Gabriel Blvd
+L Rio Hondo Bike Path
+S towards Long Beach
+Cross Bridge
+S towards Long Beach
+U-Turn @ Long Beach
+N on Rio Hondo Bike Path
 Cross Bridge
 L Firestone Blvd
 L Garfield Ave
@@ -17,7 +26,4 @@ Coffee @ Panera Bread
 N Garfield Ave
 R Firestone Blvd
 L Rio Hondo Bike Path
-Cross San Gabriel
-Regroup @ gate
-Peck Park
-The Corner
+(Ride retraces steps above)
