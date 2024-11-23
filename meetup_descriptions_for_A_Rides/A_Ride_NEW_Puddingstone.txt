@@ -1,6 +1,6 @@
-This is a new ride which takes us around the Puddingstone lake. It is a ride which is borrowed - stole - from the Foothills club. The ride is 40 miles with 1350 feet of elevation.
+This is a ride takes us around the Puddingstone lake.  The ride is 40 miles with 1350 feet of elevation.
 
-We head east and end up on route 66 all the way to San Dimas Canyon Rd. At this time of day route 66 is not busy and this avoids the hills of Sierra Madre. Coffee is after we go through Puddington either at the Starbucks at Bonita or the cafe before it. Then west on Bonita to Cataract and head home.
+We head east and end up on route 66 all the way to San Dimas Canyon Rd. At this time of day route 66 is not busy and this avoids the hills of Sierra Madre. Coffee is after we go through Puddington either at the Railside cafe before Bonita. Then west on Bonita to Cataract and head home.
 
 Route directions: https://raw.githubusercontent.com/jfriesne/roc_route_slips/master/A_Ride_NEW_Puddingstone.txt
 
