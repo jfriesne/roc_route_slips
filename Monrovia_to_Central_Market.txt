@@ -1,0 +1,32 @@
+Monrovia-to-Central-Market
+35.82 miles, 1336 ft gain
+https://www.mapmyride.com/routes/view/6493242847/
+Jeremy's cell: (626) 487 3194
+
+S  Primrose Ave
+R  Chestnut Ave
+C  Santa Clara St
+C  Huntington Dr
+R  Monterey Rd
+C  Pasadena Ave
+QL Arroyo Verde Rd
+QR Arroyo Verde St
+L  Arroyo Seco Bike Path
+C  Mosher Ave
+CR Homer St
+L  Ave 43
+QR Griffith Ave
+R  Broadway
+CR Broadway (@18th)
+STOP Central Market
+R  4th St
+R  Hill St
+R  College St
+L  Spring St
+C  Broadway
+L  Mission Rd
+C  Huntington Dr
+L  Santa Anita Ave
+R  Colorado Blvd
+L  Primrose Ave
+
