@@ -1,0 +1,47 @@
+CLAREMONT w/A CHOCOLATE TWIST - A ROUTE
+47 MILES
+Jeremy's cell: (626) 487 3194
+
+S	Primrose
+L	Colorado
+R	Shamrock
+L	Royal Oaks
+R	Encanto
+L	Bike Bridge
+STOP	REGROUP
+L	Bike Path
+R	Todd
+L	Sierra Madre
+R	Valley Center
+STOP	REGROUP
+L	Foothill
+R	Amelia
+L	Foothill
+L	Baseline
+STOP	REGROUP
+R	Monte Vista Ave
+R	Claremont Blvd
+R	1st St
+R	Yale Ave
+COFFEE	Some Crust Bakery
+119	N Yale Ave
+N	Yale Ave
+L	Bonita Ave
+L	San Dimas
+STOP	REGROUP
+R	Arrow Hwy
+L	Cataract
+INTO	Covina
+INTO	Badillo
+R	Orange
+L	San Bernardino
+R	Azusa Canyon
+INTO	Santa Fe Recreation Park
+R INTO	Bike Path at Entrance Booth
+N	Bike Path
+L	Bike Bridge
+R	Encanto
+L	Royal Oaks
+R	Shamrock
+L	Colorado
+R	Primrose
