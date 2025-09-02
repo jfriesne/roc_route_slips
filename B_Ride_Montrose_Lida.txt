@@ -15,7 +15,7 @@ R Arroyo north to Seco (13.7)
 REGROUP
 L Seco west to West (13.8)
 R West north to Silvia (14.4)
-L Silvia northwest to Linda Vista (14.8)
+L Salvia Canyon northwest to Linda Vista (14.8)
 R Linda Vista (15.0)
 C Linda Vista (A group takes L on Lida)
 C Highland Dr
